@@ -1,0 +1,113 @@
+#logo {
+    height: 35px;
+    width: 110px;
+}
+
+.btn-menu {
+    width: 120px;
+    height: 35px;
+    border-radius: 50px;
+    background-color: #EB5757;
+    color: #ffffff;
+    border: none;
+}
+
+.menu-spe {
+    position: relative;
+    margin-left: 200px;
+}
+
+.img-banner {
+    background-image: url("./assents/banner.png");
+    height: 580px;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: red;
+}
+
+.samia {
+    width: 160px;
+    height: 40px;
+    border-radius: 50px;
+    background-color: #f1b9b0;
+    color: #EB5757;
+    border: none;
+}
+
+
+.food {
+
+    color: #EB5757;
+
+}
+
+#paragrafo {
+    font-size: 80px;
+    margin-top: 3s0px;
+}
+
+.nauany {
+    font-size: 20px;
+    color: black;
+    margin-bottom: 30px;
+    margin-top: 30px;
+
+}
+
+.cereja {
+    height: 15px;
+}
+
+.btn-2 {
+    width: 120px;
+    height: 45px;
+    border-radius: 50px;
+    background-color: #EB5757;
+    color: #ffffff;
+    border: none;
+}
+
+#mulher{
+    background-image:url(./assents/Captura\ de\ tela\ 2024-08-07\ 162525.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 45px;
+    width: 45px;
+    border-radius:100%;
+}
+
+.caixa-mulher{
+    display: flex;
+    flex-direction: row;
+}
+
+
+.caixa-de-texto{
+
+margin-top: 70px;
+
+}
+#homem{
+    background-image:url(./assents/Captura\ de\ tela\ 2024-08-07\ 162440.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 45px;
+    width: 45px;
+    border-radius:100%;
+    
+
+}
+#nino{
+    background-image:url(./assents/Captura\ de\ tela\ 2024-08-07\ 162503.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 45px;
+    width: 45px;
+    border-radius:100%;
+
+}
+.folga{margin-left: 30px;
+
+
+}
